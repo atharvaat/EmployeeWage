@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author WELCOME
- *
- */
-module EmployeeWage {
-}
